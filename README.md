@@ -1,0 +1,2 @@
+# Ednick
+Softwares for developers
